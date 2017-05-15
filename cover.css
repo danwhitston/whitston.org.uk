@@ -94,8 +94,8 @@ body {
 }
 
 .nav-masthead .active {
-  color: rgba(143,0,40,.25);
-  border-bottom-color: rgba(143,0,40,.25);
+  color: rgba(143,0,40,.85);
+  border-bottom-color: rgba(143,0,40,.85);
 }
 
 @media (min-width: 48em) {
