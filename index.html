@@ -73,5 +73,21 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/ie10-viewport-bug-workaround.js"></script>
+    <!-- Quote generator, why not? -->
+    <script type="text/javascript">
+      var quotes = ['<q>Life is very short and what we have to do must be done in the now</q> - <cite>Audre Lorde</cite>',
+      '<q>Programming is like any profession where you sit in front of a box and hate yourself for not thinking enough like a machine</q> - <cite>Taylor Swift</cite>',
+      '<q>You can plan events, but if they go according to your plan they are not events</q> - <cite>John Berger</cite>',
+      '<q>Beep, beep, beep, beep</q> - <cite>Leonard Nimoy</cite>',
+      '<q>Trying to define yourself is like trying to bite your own teeth</q> - <cite>Alan Watts</cite>',
+      '<q>The problem with quotes found on the internet is that they are often not true</q> - <cite>Abraham Lincoln</cite>',]
+
+      function newQuote() {
+        var randomNumber = Math.floor(Math.random() * (quotes.length));
+        document.getElementById('quote').innerHTML = quotes[randomNumber];
+      }
+
+      newQuote();
+    </script>
   </body>
 </html>
