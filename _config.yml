@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Daniel Whitston
-email: dan@whitston.org.uk
+email: dan@whitston.uk
 description: >-
   I'm a London-based developer and technical manager. I post infrequently
   about software engineering, event and community organising, and 
@@ -28,6 +28,7 @@ baseurl: ""
 url: "https://whitston.org.uk"
 linkedin_username: danielwhitston
 github_username:  danwhitston
+rss: RSS feed
 
 # Build settings
 theme: minima
