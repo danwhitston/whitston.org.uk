@@ -1,6 +1,5 @@
 ---
 title:  "Driving sales with CRM"
-categories: sales
 ---
 
 There are exactly one gazillion online CRM systems nowadays, and a weird lack of summaries online, so I thought I'd publish some of the rough notes I pulled together as part of a recent review. The situation is important, as different CRMs are best suited to different purposes. The company I was working with had a requirement for the system to drive sales activity, and a small team using Google Apps and Android phones. That means the solution I settled on is the one I thought best for this particular focus.

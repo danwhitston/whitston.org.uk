@@ -1,6 +1,5 @@
 ---
 title:  "Paid in Full - work and rewards in Nine Worlds"
-categories: events
 ---
 
 When we founded Nine Worlds, we had a few core aims in mind. We wanted to build an annual, London-based residential event with lots of content covering lots of interests. We wanted to include historically marginalised or disadvantaged groups, and to bridge the gaps between different communities. We wanted to increase our knowledge and improve the convention year-on-year by using the same core team and resources. And we wanted to do so in a sustainable and non-exploitative way.

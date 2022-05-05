@@ -1,6 +1,5 @@
 ---
 title:  "Online tendering support for the Work Programme"
-categories: welfare-to-work saas
 ---
 
 After finding out a bit more about Merlin's web portal earlier this week, I've been thinking about online tendering support. Roughly speaking, bidding can be split into five areas:

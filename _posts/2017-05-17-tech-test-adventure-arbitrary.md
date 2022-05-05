@@ -1,6 +1,5 @@
 ---
 title:  "Tech test adventure: Arbitrary discount rules and the strategy pattern"
-categories: design-patterns ruby kata
 ---
 
 ## Part 1 - The Gilded Rose

@@ -1,6 +1,5 @@
 ---
 title:  "Helping people to get and keep jobs using online support"
-categories: welfare-to-work saas
 ---
 
 I've been thinking about this topic for a while now. Some brief thoughts, with more to follow. I've used a lot of bullet points to lay out the main areas quickly:

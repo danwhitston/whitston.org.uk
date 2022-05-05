@@ -1,6 +1,5 @@
 ---
 title:  "Browser testing for Ruby from within Windows Subsystem for Linux"
-categories: development testing ruby wsl
 ---
 
 This is a rough guide to setting up browser testing through Selenium on Windows Subsystem for Linux (WSL), aka Bash on Ubuntu on Windows. It assumes the following environment:

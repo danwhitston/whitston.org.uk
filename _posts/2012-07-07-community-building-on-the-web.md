@@ -1,6 +1,5 @@
 ---
 title:  "Community building on the web"
-categories: online-community
 ---
 
 Over the past few years, I've had a bunch of meetings with people trying to extract the secret sauce I used to make Indus Delta into a popular, profitable website. One or two actually made the leap and went on to build their own communities, e.g. No Offence. Hopefully the [NUJ conference](https://onlinejournalismblog.com/2010/01/18/nujs-making-journalism-pay-online-five-points/) I addressed on the topic (alongside Guido Fawkes!) inspired a few people as well.

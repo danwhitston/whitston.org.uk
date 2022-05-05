@@ -1,6 +1,5 @@
 ---
 title:  "What happens when ‘workfare’ replaces paid workers?"
-categories: welfare-to-work
 ---
 
 Apropos of [this article in the Guardian](http://www.guardian.co.uk/society/2012/jun/08/jubilee-stewards-unpaid-labour-growing), I've been musing over the impact of mandated work experience placements on the labour market, specifically those that end up replacing paid jobs.

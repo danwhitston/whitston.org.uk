@@ -1,6 +1,5 @@
 ---
 title:  "Inclusion and Safer Spaces"
-categories: events inclusion
 ---
 
 I've been thinking a lot about the tension that exists in creating inclusive spaces since last Nine Worlds. We got a lot of positive feedback with regard to inclusivity, diversity, and the perception of safety at the event. This particularly focused on LGBTQ and women attendees; race and disability were more problematic, and that's something we're working to improve on this coming year.
