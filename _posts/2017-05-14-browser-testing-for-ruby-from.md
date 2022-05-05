@@ -115,4 +115,4 @@ end
 
 ---
 
-*Originally published at <https://gist.github.com/DanielJohnston/5cea26ae0861ce1520695cff3c2c3315>.*
+*Originally published at <https://gist.github.com/DanielJohnston/5cea26ae0861ce1520695cff3c2c3315>. This post's recommendations are somewhat outdated: WSL2 was released, PhantomJS was deprecated, headless browser automation in general works better now. So take the advice with a pinch of salt.*
