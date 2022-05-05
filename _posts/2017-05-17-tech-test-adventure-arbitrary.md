@@ -83,9 +83,9 @@ It's mildly embarrassing theming a post around usage of a pattern and then being
 
 ## Bonus video
 
-The Gilded Rose is open to a huge range of 'solutions'. The following video of a Gilded Kata refactoring in Ruby, by Sandi Metz, walks through a solution that's both extremely elegant and fun to watch:
+The Gilded Rose is open to a huge range of 'solutions'. The following video of a Gilded Kata refactoring in Ruby, by Sandi Metz, walks through a solution that's both elegant and fun to watch:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8bZh5LMaSmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videowrapper"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8bZh5LMaSmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Bonus legacy refactoring note
 
